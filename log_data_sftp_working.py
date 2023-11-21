@@ -2,6 +2,7 @@ import RPi.GPIO as GPIO
 from time import time
 from time import gmtime, strftime
 import paramiko
+import os
 
 # Update the next three lines with your
 # server's information
@@ -67,7 +68,7 @@ while True:
 
 
 
-os.system("data_sftp_2.py")
+##os.system("data_sftp_2.py")
 ## Make SFTP transfer
 ##localpath = "/home/pi/Water_heater_SCADA_system/Water_heater_SCADA_system/Water draw data - " + str(actual_time) + ".txt"
 ##remotepath = "/home/hank/Water draw data - " + str(actual_time) + ".txt"
