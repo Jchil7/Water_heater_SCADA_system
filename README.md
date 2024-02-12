@@ -8,4 +8,4 @@ A network connection must be made to the host server from the client server.
 Edit the code "data_sftp_2.py" to specify the local file path and remote file path. 
 
 
-Run 'Water_heater_data_tr.py' to perform water draw, log the data, and transfer the data to desired location.
+Run 'Water_heater_data_tr.py' to perform water draw, log the data, and transfer the data to desired location. This program runs two other python programs in succession to immediately process the data and transfer the file via sftp. 
