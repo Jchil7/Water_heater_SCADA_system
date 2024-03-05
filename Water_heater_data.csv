@@ -1,2 +1,48 @@
 Time,Water volume last 15 min (gal),Water volume current day (gal),Water volume consumed total life (gal),Instantaneous Power (W),Energy consumed last 15 min (Wh),Energy consumed current day (Wh),Energy consumed total life (kWh)
  
+,Time,Water volume last 15 min (gal),Water volume current day (gal),Water volume consumed total life (gal),Instantaneous Power (W),Energy consumed last 15 min (Wh),Energy consumed current day (wh),Energy consumed total life (kWh)
+0,0,0,0,0,21.774,0,0,0
+,Time,Water volume last 15 min (gal),Water volume current day (gal),Water volume consumed total life (gal),Instantaneous Power (W),Energy consumed last 15 min (Wh),Energy consumed current day (wh),Energy consumed total life (kWh)
+0,0,0,0,0,21.774,0,0,0
+[0],[0],[0],[0],['21.774'],[0],[0],[0]
+0,0,0,0,21.774,0,0,0
+0,0,0,0,21.774,0,0,0
+2024-03-03 19:51:23 PST-0800,0,0,0,21.774,0,0,0
+2024-03-03 19:52:41 PST,0,0,0,21.774,0,0,0
+2024-03-03 20:15:01 PST,0,0,0,21.774,0,0,0
+2024-03-03 20:17:41 PST,0,0,0,21.774,0,0,0
+2024-03-03 20:18:43 PST,0,0,0,21.774,0,0,0
+2024-03-03 20:19:48 PST,0,0,0,21.774,0,0,0
+2024-03-03 20:21:49 PST,0,0,0,21.774,0,0,0
+2024-03-03 20:23:04 PST,0,0,0,21.774,2865.1589999999997,0,0
+2024-03-03 20:50:15 PST,0,0,0,21.774,"6      15.000
+7     216.774
+8     216.774
+9     216.774
+10    216.774
+11    216.774
+12    216.774
+13    216.774
+14    227.097
+15    216.774
+16    216.774
+17    216.774
+18    216.774
+19    216.774
+20     21.774
+Name: 10, dtype: float64",0,0
+2024-03-03 20:51:49 PST,0,0,0,21.774,0,0,0
+2024-03-03 21:00:24 PST,0,0,0,21.774,"10    47.75265
+dtype: float64",0,0
+2024-03-03 21:02:16 PST,0,0,0,21.774,"10    47.75265
+dtype: float64",0,0
+2024-03-03 21:04:12 PST,0,0,0,21.774,"10    47.75265
+dtype: float64",0,0
+2024-03-03 21:06:42 PST,0,0,0,21.774,"10    47.75265
+dtype: float64",0,0
+2024-03-03 21:12:15 PST,0,0,0,21.774,"10    47.75265
+dtype: float64",0,0
+2024-03-03 21:13:02 PST,0,0,0,21.774,"10    47.75265
+dtype: float64",0,0
+2024-03-03 21:16:54 PST,0,0,0,21.774,"10    47.75265
+dtype: float64",0,0
