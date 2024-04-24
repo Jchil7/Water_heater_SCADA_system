@@ -1,3 +1,8 @@
+# This is the program that was successful in reading the cumulative gallons that
+# the flowmeter detected. You need to keep the program running in order to keep detecting 
+# flowmeter pulses.
+
+
 import RPi.GPIO as GPIO
 import time
 from time import gmtime, strftime
