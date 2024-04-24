@@ -33,6 +33,7 @@ def log_entry():
 	#print(sum_power_15.dtypes)
 
 	# write row data
+	# These are the same columns that are in the "Water_heater_data.csv" file
 	row_data = [{
 		'Time' : str(formatted_time),
 		'Water volume last 15 min (gal)' : 0,
