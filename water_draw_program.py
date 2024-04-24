@@ -1,3 +1,6 @@
+# This is a file which performs a water draw and writes the results to a file.
+# This program is set up so that you could connect to a host and transfer the file via SSH.
+
 import RPi.GPIO as GPIO
 from time import time
 from time import gmtime, strftime
