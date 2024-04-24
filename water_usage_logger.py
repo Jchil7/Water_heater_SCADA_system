@@ -1,4 +1,4 @@
-# This program is going to be used to automatically detect the flowmeter of water heater to log the 
+# This program was a prototype that was going to be used to automatically detect the flowmeter of water heater to log the 
 # water usage in a file "Water_log_file.csv"
 
 import RPi.GPIO as GPIO
