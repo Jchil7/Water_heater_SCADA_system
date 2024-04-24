@@ -1,3 +1,8 @@
+# This is a program to extract the power reading from the water heater log made by the CTA program.
+# The chunk of code to sum the last 15 min of power readings is still in development.
+# Then the program tries to write to a file called "Water_heater_data.csv"
+
+
 import pandas as pd
 from datetime import datetime
 import pytz
@@ -46,6 +51,7 @@ def log_entry():
 
 	print("Data successfully logged")
 
+# Run the log_entry function every X minutes
 schedule.every(5/60).minutes.do(log_entry)
 
 while True:
