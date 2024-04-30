@@ -1,3 +1,8 @@
+# This was a file to test out whether I could draw water
+# and log the data to a file and send the file via sftp to 
+# another device.
+
+
 import RPi.GPIO as GPIO
 from time import time
 from time import gmtime, strftime
