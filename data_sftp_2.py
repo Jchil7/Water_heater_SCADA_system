@@ -1,11 +1,15 @@
+# Use this script to connect to a client and
+# transfer a file from the selected directory
+
+
 import paramiko
 
 # Update the next three lines with your
 # server's information
 
-host = "131.252.223.182"
-username = "hank"
-password = "Jbcasf18"
+host = "xxx.xxx.xxx.xxx"
+username = "host"
+password = "password"
 
 client = paramiko.client.SSHClient()
 client.set_missing_host_key_policy(paramiko.AutoAddPolicy())
