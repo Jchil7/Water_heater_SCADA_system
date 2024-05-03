@@ -32,7 +32,7 @@ def log_entry():
 	#sum_power_15 = np.sum(value)
 	#print(sum_power_15.dtypes)
 
-	# write row data
+	# write row data headers
 	# These are the same columns that are in the "Water_heater_data.csv" file
 	row_data = [{
 		'Time' : str(formatted_time),
