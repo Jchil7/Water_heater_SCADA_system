@@ -7,6 +7,8 @@ A network connection must be made to the host server from the client server. Edi
 
 water2v4.py - This program can be used to count the cumulative flowmeter pulses to produce the total amount of gallons to flow from the water heater.  
 
+power_read.py - This is a program to extract the power reading from the water heater log made by the CTA program. Then the program tries to write to a file called "Water_heater_data.csv".
+
 Run 'Water_heater_data_tr.py' to perform water draw, log the data, and transfer the data to desired location. This program runs two other python programs in succession to immediately process the data and transfer the file via sftp.
 
 
